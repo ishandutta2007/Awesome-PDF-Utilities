@@ -69,11 +69,11 @@ The table below compiles leading hosted and desktop-cloud commercial PDF platfor
 
 ## 🛠️ Open-Source GitHub Projects
 
-Below are the most prominent open-source projects, tools, and developer libraries for PDF processing, sorted in **descending order by GitHub star count**. Each repository badge links directly to its stargazer community.
+Below are the most prominent open-source projects, tools, and developer libraries for PDF processing, sorted in **descending order by GitHub Stars_Count**. Each repository badge links directly to its stargazer community.
 
 ---
 
-### 1. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) [![GitHub stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)
+### 1. [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) [![GitHub_Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers)
 - **Primary Category**: 🌐 Self-Hosted All-in-One Web Suite
 - **Stars**: ~94.7k ⭐ | **License**: GPL-3.0 / Open-Core
 - **Description**: The undisputed leader in self-hosted PDF management. Packs over **50+ PDF utilities into a single Docker container**: merge, split, rotate, reorganize, compress (via QPDF), OCR (via Tesseract), convert (Office, HTML, Markdown via LibreOffice), password-protect, watermark, certify, sanitize, and redact.
@@ -85,7 +85,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 2. [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) [![GitHub stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers)
+### 2. [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) [![GitHub_Stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers)
 - **Primary Category**: 👁️ Neural Network OCR Engine
 - **Stars**: ~77.1k ⭐ | **License**: Apache-2.0
 - **Description**: The foundational open-source optical character recognition engine sponsored by Google and maintained by the open-source community. Employs LSTM recurrent neural networks to recognize text across 100+ languages and 35+ writing systems.
@@ -93,7 +93,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 3. [PDF.js](https://github.com/mozilla/pdf.js) [![GitHub stars](https://img.shields.io/github/stars/mozilla/pdf.js?style=social&color=white)](https://github.com/mozilla/pdf.js/stargazers)
+### 3. [PDF.js](https://github.com/mozilla/pdf.js) [![GitHub_Stars](https://img.shields.io/github/stars/mozilla/pdf.js?style=social&color=white)](https://github.com/mozilla/pdf.js/stargazers)
 - **Primary Category**: 🌐 Web Standards PDF Renderer & Parser
 - **Stars**: ~54.0k ⭐ | **License**: Apache-2.0
 - **Description**: Mozilla’s community-driven HTML5 and WebGL PDF reader. Parses and renders PDF files directly within modern web browsers without native plugin dependencies.
@@ -101,7 +101,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 4. [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) [![GitHub stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=social&color=white)](https://github.com/ocrmypdf/OCRmyPDF/stargazers)
+### 4. [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) [![GitHub_Stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=social&color=white)](https://github.com/ocrmypdf/OCRmyPDF/stargazers)
 - **Primary Category**: 👁️ Scanned Document Archival & Search Layer
 - **Stars**: ~35.1k ⭐ | **License**: MPL-2.0
 - **Description**: The industry standard for retrofitting scanned PDF documents with a searchable text layer. Generates archival-grade **PDF/A** files while meticulously preserving the visual integrity of historical records.
@@ -113,7 +113,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 5. [React-PDF](https://github.com/diegomura/react-pdf) [![GitHub stars](https://img.shields.io/github/stars/diegomura/react-pdf?style=social&color=white)](https://github.com/diegomura/react-pdf/stargazers)
+### 5. [React-PDF](https://github.com/diegomura/react-pdf) [![GitHub_Stars](https://img.shields.io/github/stars/diegomura/react-pdf?style=social&color=white)](https://github.com/diegomura/react-pdf/stargazers)
 - **Primary Category**: 🧩 Declarative React PDF Generation
 - **Stars**: ~16.8k ⭐ | **License**: MIT
 - **Description**: Build PDF files using standard React component architecture (`<Document>`, `<Page>`, `<Text>`, `<View>`, `<Image>`). Renders seamlessly in Node.js server environments or directly inside browser clients.
@@ -121,7 +121,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 6. [BentoPDF](https://github.com/alam00000/bentopdf) [![GitHub stars](https://img.shields.io/github/stars/alam00000/bentopdf?style=social&color=white)](https://github.com/alam00000/bentopdf/stargazers)
+### 6. [BentoPDF](https://github.com/alam00000/bentopdf) [![GitHub_Stars](https://img.shields.io/github/stars/alam00000/bentopdf?style=social&color=white)](https://github.com/alam00000/bentopdf/stargazers)
 - **Primary Category**: 🌐 Privacy-First Browser-Side WebAssembly Toolkit
 - **Stars**: ~16.1k ⭐ | **License**: AGPL-3.0
 - **Description**: A comprehensive PDF utility suite providing **130+ tools executed entirely within the client's browser using WebAssembly**. Because processing is 100% local, no document data ever travels over the network.
@@ -129,7 +129,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 7. [pdfmake](https://github.com/bpampuch/pdfmake) [![GitHub stars](https://img.shields.io/github/stars/bpampuch/pdfmake?style=social&color=white)](https://github.com/bpampuch/pdfmake/stargazers)
+### 7. [pdfmake](https://github.com/bpampuch/pdfmake) [![GitHub_Stars](https://img.shields.io/github/stars/bpampuch/pdfmake?style=social&color=white)](https://github.com/bpampuch/pdfmake/stargazers)
 - **Primary Category**: 🧩 Client/Server Declarative PDF Printing
 - **Stars**: ~12.4k ⭐ | **License**: MIT
 - **Description**: Pure JavaScript client-side and server-side document generation engine driven by JSON document definitions rather than imperative coordinate drawing.
@@ -137,7 +137,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 8. [PyMuPDF (fitz)](https://github.com/pymupdf/PyMuPDF) [![GitHub stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers)
+### 8. [PyMuPDF (fitz)](https://github.com/pymupdf/PyMuPDF) [![GitHub_Stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=social&color=white)](https://github.com/pymupdf/PyMuPDF/stargazers)
 - **Primary Category**: 🧩 High-Performance Python Manipulation Engine
 - **Stars**: ~11.0k ⭐ | **License**: AGPL-3.0 / Commercial
 - **Description**: Ultra-fast Python bindings for the MuPDF rendering and parsing engine. Recognized for lightning-fast text extraction, table recognition, vector rasterization, and coordinate detection.
@@ -145,7 +145,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 9. [PDFKit](https://github.com/foliojs/pdfkit) [![GitHub stars](https://img.shields.io/github/stars/foliojs/pdfkit?style=social&color=white)](https://github.com/foliojs/pdfkit/stargazers)
+### 9. [PDFKit](https://github.com/foliojs/pdfkit) [![GitHub_Stars](https://img.shields.io/github/stars/foliojs/pdfkit?style=social&color=white)](https://github.com/foliojs/pdfkit/stargazers)
 - **Primary Category**: 🧩 Low-Level Node.js & Browser PDF Generator
 - **Stars**: ~10.7k ⭐ | **License**: MIT
 - **Description**: An established, full-featured PDF generation library for Node.js and browsers. Provides granular programmatic control over vector graphics, font embedding, gradients, and document metadata.
@@ -153,7 +153,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 10. [pypdf](https://github.com/py-pdf/pypdf) [![GitHub stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers)
+### 10. [pypdf](https://github.com/py-pdf/pypdf) [![GitHub_Stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=social&color=white)](https://github.com/py-pdf/pypdf/stargazers)
 - **Primary Category**: 🧩 Pure-Python PDF Manipulation
 - **Stars**: ~10.3k ⭐ | **License**: BSD-3-Clause
 - **Description**: The classic, dependency-free pure-Python PDF library (merging PyPDF2 back into the unified pypdf project). Capable of splitting, merging, cropping, encrypting, decrypting, and reading form fields.
@@ -161,7 +161,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 11. [pdfcpu](https://github.com/pdfcpu/pdfcpu) [![GitHub stars](https://img.shields.io/github/stars/pdfcpu/pdfcpu?style=social&color=white)](https://github.com/pdfcpu/pdfcpu/stargazers)
+### 11. [pdfcpu](https://github.com/pdfcpu/pdfcpu) [![GitHub_Stars](https://img.shields.io/github/stars/pdfcpu/pdfcpu?style=social&color=white)](https://github.com/pdfcpu/pdfcpu/stargazers)
 - **Primary Category**: 🖥️ Go PDF Processor & CLI Engine
 - **Stars**: ~8.9k ⭐ | **License**: Apache-2.0
 - **Description**: A dedicated PDF processing engine written from scratch in Go. Emphasizes PDF compliance, memory safety, and high-throughput batch operation across enterprise clusters.
@@ -169,7 +169,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 12. [pdf-lib](https://github.com/Hopding/pdf-lib) [![GitHub stars](https://img.shields.io/github/stars/Hopding/pdf-lib?style=social&color=white)](https://github.com/Hopding/pdf-lib/stargazers)
+### 12. [pdf-lib](https://github.com/Hopding/pdf-lib) [![GitHub_Stars](https://img.shields.io/github/stars/Hopding/pdf-lib?style=social&color=white)](https://github.com/Hopding/pdf-lib/stargazers)
 - **Primary Category**: 🧩 TypeScript/JavaScript Modification Engine
 - **Stars**: ~8.7k ⭐ | **License**: MIT
 - **Description**: Create and modify PDF documents in any JavaScript environment without native C++ compilation. Supports drawing text, shapes, embedding PNG/JPEG images, and flattening interactive AcroForms.
@@ -177,7 +177,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 13. [pdfminer.six](https://github.com/pdfminer/pdfminer.six) [![GitHub stars](https://img.shields.io/github/stars/pdfminer/pdfminer.six?style=social&color=white)](https://github.com/pdfminer/pdfminer.six/stargazers)
+### 13. [pdfminer.six](https://github.com/pdfminer/pdfminer.six) [![GitHub_Stars](https://img.shields.io/github/stars/pdfminer/pdfminer.six?style=social&color=white)](https://github.com/pdfminer/pdfminer.six/stargazers)
 - **Primary Category**: 🧩 Typographic Text & Layout Extraction
 - **Stars**: ~7.0k ⭐ | **License**: MIT
 - **Description**: The community-maintained Python library dedicated to extracting exact text, font families, bounding boxes, and structural layout information from complex PDF streams.
@@ -185,7 +185,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 14. [PDF Arranger](https://github.com/pdfarranger/pdfarranger) [![GitHub stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=social&color=white)](https://github.com/pdfarranger/pdfarranger/stargazers)
+### 14. [PDF Arranger](https://github.com/pdfarranger/pdfarranger) [![GitHub_Stars](https://img.shields.io/github/stars/pdfarranger/pdfarranger?style=social&color=white)](https://github.com/pdfarranger/pdfarranger/stargazers)
 - **Primary Category**: 🖥️ Graphical Interactive Page Reorganizer
 - **Stars**: ~6.0k ⭐ | **License**: GPL-3.0
 - **Description**: A lightweight Python-GTK graphical interface for quick page-level surgery: merging, reordering, rotating, cropping, and deleting individual pages.
@@ -193,7 +193,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 15. [QPDF](https://github.com/qpdf/qpdf) [![GitHub stars](https://img.shields.io/github/stars/qpdf/qpdf?style=social&color=white)](https://github.com/qpdf/qpdf/stargazers)
+### 15. [QPDF](https://github.com/qpdf/qpdf) [![GitHub_Stars](https://img.shields.io/github/stars/qpdf/qpdf?style=social&color=white)](https://github.com/qpdf/qpdf/stargazers)
 - **Primary Category**: 🖥️ C++ Structural Transformation Engine & CLI
 - **Stars**: ~5.5k ⭐ | **License**: Apache-2.0
 - **Description**: The industry’s gold standard low-level engine for content-preserving PDF transformations. Handles structural linearization (Fast Web View), encryption, decryption, object streams, and integrity repair.
@@ -201,7 +201,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 16. [pikepdf](https://github.com/pikepdf/pikepdf) [![GitHub stars](https://img.shields.io/github/stars/pikepdf/pikepdf?style=social&color=white)](https://github.com/pikepdf/pikepdf/stargazers)
+### 16. [pikepdf](https://github.com/pikepdf/pikepdf) [![GitHub_Stars](https://img.shields.io/github/stars/pikepdf/pikepdf?style=social&color=white)](https://github.com/pikepdf/pikepdf/stargazers)
 - **Primary Category**: 🧩 Pythonic QPDF Bindings
 - **Stars**: ~2.8k ⭐ | **License**: MPL-2.0
 - **Description**: Bridges the battle-tested C++ performance of QPDF with idiomatic Python list and dict syntax.
@@ -209,7 +209,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 17. [CoherentPDF (cpdf)](https://github.com/coherentgraphics/cpdf-binaries) [![GitHub stars](https://img.shields.io/github/stars/coherentgraphics/cpdf-binaries?style=social&color=white)](https://github.com/coherentgraphics/cpdf-binaries/stargazers)
+### 17. [CoherentPDF (cpdf)](https://github.com/coherentgraphics/cpdf-binaries) [![GitHub_Stars](https://img.shields.io/github/stars/coherentgraphics/cpdf-binaries?style=social&color=white)](https://github.com/coherentgraphics/cpdf-binaries/stargazers)
 - **Primary Category**: 🖥️ Advanced Imposition & Production Prepress CLI
 - **Stars**: ~740 ⭐ | **License**: AGPL-3.0 / Commercial
 - **Description**: Commercial-grade command-line toolkit specialized in advanced imposition (n-up, booklet preparation), bookmark tree preservation, Bates numbering, and JSON document inspection.
@@ -217,7 +217,7 @@ Below are the most prominent open-source projects, tools, and developer librarie
 
 ---
 
-### 18. [veraPDF](https://github.com/veraPDF/veraPDF-library) [![GitHub stars](https://img.shields.io/github/stars/veraPDF/veraPDF-library?style=social&color=white)](https://github.com/veraPDF/veraPDF-library/stargazers)
+### 18. [veraPDF](https://github.com/veraPDF/veraPDF-library) [![GitHub_Stars](https://img.shields.io/github/stars/veraPDF/veraPDF-library?style=social&color=white)](https://github.com/veraPDF/veraPDF-library/stargazers)
 - **Primary Category**: 🖥️ PDF/A & PDF/UA Conformance Validator
 - **Stars**: ~350 ⭐ | **License**: GPL-3.0 / MPL-2.0
 - **Description**: The official open-source, industry-supported conformance validator for ISO 19005 (PDF/A for long-term archiving) and ISO 14289 (PDF/UA for universal accessibility).
